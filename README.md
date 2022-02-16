@@ -1,5 +1,10 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Matheus!
 
+[![Linkedin Badge](https://img.shields.io/badge/-matheusbds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-barbosa-933a73144/)](https://www.linkedin.com/in/matheus-barbosa-933a73144/)
+[![Instagram Badge](https://img.shields.io/badge/-matheusbds-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/matheus.bsantos/?hl=pt-br)](https://www.instagram.com/matheus.bsantos/)
+[![Medium Badge](https://img.shields.io/badge/-@matheusbds-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@matheusbdos31)](https://medium.com/@matheusbdos31)
+[![Gmail Badge](https://img.shields.io/badge/-matheusbds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:matheusbdos31@gmail.com)
+
 
 ### GitHub Stats 📊📈
 
