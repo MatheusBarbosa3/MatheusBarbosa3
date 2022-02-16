@@ -10,5 +10,7 @@
 
 ### GitHub Stats 📈
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MatheusBarbosa3&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarbosa3&layout=compact)](https://github.com/MatheusBarbosa3/github-readme-stats)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MatheusBarbosa3&theme=tokyonight&show_icons=true)
+
