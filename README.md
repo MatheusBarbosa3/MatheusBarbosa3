@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-barbosa-933a73144/)](https://www.linkedin.com/in/matheus-barbosa-933a73144/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/matheus.bsantos/)](https://www.instagram.com/matheus.bsantos/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@matheusbdos31)](https://medium.com/@matheusbdos31)
+[![Medium Badge](https://img.shields.io/badge/-Medium-yellow?style=flat-square&logo=Medium&link=https://medium.com/@matheusbdos31)](https://medium.com/@matheusbdos31)
 [![Gmail Badge](https://img.shields.io/badge/-@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbdos31@gmail.com)](mailto:matheusbdos31@gmail.com)
 
 
