@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&link=https://medium.com/@matheusbdos31)](https://medium.com/@matheusbdos31)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbdos31@gmail.com)](mailto:matheusbdos31@gmail.com)
 
-#### Software engineer, graduated in Computer Science, I seek a creative approach to problem solving for software engineering and architecture issues. Currently working on Front-end web development using Angular, React, and back-end usinng NodeJS (Nest), Java (Spring), also working on other projects with Flutter.
+#### Software engineer, graduated in Computer Science, I seek a creative approach to problem solving for software engineering and architecture issues. Currently working on Front-end web development using Angular, React, and back-end usinng NodeJS (NestJS), Java (Spring), also working on other projects with Flutter.
 
 
 ### GitHub Stats 📈
